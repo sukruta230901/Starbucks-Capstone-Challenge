@@ -52,7 +52,7 @@ The following files attached to this GitHub's repository include the following:
 
 * Starbucks_Capstone_Challenge.ipynb: This is the Jupyter Notebook in which I performed all my work.
 * proposal.pdf: This document contains the initial project proposal I submitted prior to necessarily beginning this project.
-* dataset: This contains the three ZIP files containing corresponding JSON files provided by Starbucks / Udacity as noted above.
+* dataset: This folder contains the three ZIP files containing corresponding JSON files provided by Starbucks / Udacity as noted above.
 * report.pdf: This document contains a detailed report of the project and describes all the results and observations.
 
 ## 🎯 Acknowledgment
