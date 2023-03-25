@@ -50,10 +50,10 @@ Here is the schema and explanation of each variable in the files:
 ## 🎯 Files
 The following files attached to this GitHub's repository include the following:
 
-* Starbucks_Capstone_Challenge.ipynb: This is the Jupyter Notebook in which I performed all my work.
-* proposal.pdf: This document contains the initial project proposal I submitted prior to necessarily beginning this project.
-* dataset: This folder contains the three ZIP files containing corresponding JSON files provided by Starbucks / Udacity as noted above.
-* report.pdf: This document contains a detailed report of the project and describes all the results and observations.
+* [Starbucks_Capstone_Challenge.ipynb](https://github.com/sukruta230901/Starbucks-Capstone-Challenge/blob/main/Starbucks_Capstone_Challenge.ipynb): This is the Jupyter Notebook in which I performed all my work.
+* [proposal.pdf](https://github.com/sukruta230901/Starbucks-Capstone-Challenge/blob/main/proposal.pdf): This document contains the initial project proposal I submitted prior to necessarily beginning this project.
+* [dataset](https://github.com/sukruta230901/Starbucks-Capstone-Challenge/tree/main/dataset): This folder contains the three ZIP files containing corresponding JSON files provided by Starbucks / Udacity as noted above.
+* [report.pdf](https://github.com/sukruta230901/Starbucks-Capstone-Challenge/blob/main/report.pdf): This document contains a detailed report of the project and describes all the results and observations.
 
 ## 🎯 Acknowledgment
 This project was completed as part of Udacity AWS Machine Learning Engineer Nanodegree. The data set provided by Starbucks contains simulated data that mimics customer behavior on the Starbucks rewards mobile app.
